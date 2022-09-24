@@ -19,7 +19,6 @@ import java.util.regex.Pattern;
 public class lesson_2 {
 
     private static Scanner scanner = new Scanner(System.in);
-    ;
 
     public static void main(String[] args) {
 
